@@ -2,7 +2,9 @@
 
 A frontend web application to visualize working of various sort functions
 
-Website Link :- click here
+![Screenshot](media/pic.png?raw=true "pic")
+
+Website Link :- [click here](https://vishal8888a8.github.io/V-sort/)
 
 ## Tech stack
 
